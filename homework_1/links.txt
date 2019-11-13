@@ -1,0 +1,4 @@
+politics: https://www.bbc.com/russian/news-50372118
+crime: https://www.bbc.com/russian/news-50388047
+business: https://www.bbc.com/russian/news-50293163
+science: https://www.bbc.com/russian/vert-fut-50223070
