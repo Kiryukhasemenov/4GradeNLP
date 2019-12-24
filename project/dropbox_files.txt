@@ -1,0 +1,11 @@
+https://www.dropbox.com/s/x5oenw7pjmezuzq/neg_service.conllu
+https://www.dropbox.com/s/aky6to398zi1jv5/pos_food.conllu
+https://www.dropbox.com/s/5eoq8bcnkytf226/pos_service.conllu
+https://www.dropbox.com/s/xdi4f1h27jl1s7j/neg_food.conllu
+https://www.dropbox.com/s/cl6uq4a1pgogu9x/neg_food_weirdness.pk
+https://www.dropbox.com/s/pukhx764a5tfp9u/neg_service_weirdness.pk
+https://www.dropbox.com/s/ak8u6n206kkif64/pos_food_weirdness.pk
+https://www.dropbox.com/s/vo5yg5c79ycs37w/pos_service_weirdness.pk
+https://www.dropbox.com/s/sn3l3qryb9g5ymy/word_lists.pk
+https://www.dropbox.com/s/ydw7vm162ewq9fp/to_Vanya.zip
+https://www.dropbox.com/s/q1w4ftavn69383c/mean_vectors.pk

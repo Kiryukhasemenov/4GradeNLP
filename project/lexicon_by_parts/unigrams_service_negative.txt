@@ -1,0 +1,13 @@
+Service	жестокий_ADJ	0
+Service	тупой_ADJ	0
+Service	грубый_ADJ	0
+Service	ленивый_ADJ	0
+Service	злобный_ADJ	0
+Service	наглый_ADJ	0
+Service	невоспитанный_ADJ	0
+Service	хамоватый_ADJ	0
+Service	неопрятный_ADJ	0
+Service	угрюмый_ADJ	0
+Service	злой_ADJ	0
+Service	нерасторопный_ADJ	0
+Service	медлительный_ADJ	0
