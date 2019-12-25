@@ -7,5 +7,5 @@ https://www.dropbox.com/s/pukhx764a5tfp9u/neg_service_weirdness.pk
 https://www.dropbox.com/s/ak8u6n206kkif64/pos_food_weirdness.pk
 https://www.dropbox.com/s/vo5yg5c79ycs37w/pos_service_weirdness.pk
 https://www.dropbox.com/s/sn3l3qryb9g5ymy/word_lists.pk
-https://www.dropbox.com/s/ydw7vm162ewq9fp/to_Vanya.zip
+https://www.dropbox.com/s/x6yiaveef5snf94/lexicon_by_parts.zip
 https://www.dropbox.com/s/q1w4ftavn69383c/mean_vectors.pk
